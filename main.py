@@ -149,7 +149,7 @@ print(reflection)
 
 # Attempt the exercise again
 print(pyfiglet.figlet_format("Second Attempt"))
-attempt_one = """ 
+attempt_two = """ 
 Insert your second attempt here
 """
-print(attempt_one)
+print(attempt_two)
